@@ -29,7 +29,7 @@ python ecg_viewer_advanced.py
 ## You'll see:
 A graph showing the heartbeat pattern with detected beats marked in red and expert annotations in green!
 
-<img src="example_output.png" alt="Example Output" width="800"/>
+![Example Output](./example_output.png)
 
 ---
 
@@ -38,5 +38,6 @@ Created as a biomedical engineering learning project.
 
 
 5. **Save and close** the file
+
 
 
